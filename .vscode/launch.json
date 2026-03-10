@@ -16,6 +16,13 @@
         "configurations": [
             {
                 "type": "java",
+                "name": "payslip",
+                "request": "launch",
+                "mainClass": "java_04_control_statements.payslip",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
                 "name": "Frequency",
                 "request": "launch",
                 "mainClass": "java_03_operators.Frequency",
