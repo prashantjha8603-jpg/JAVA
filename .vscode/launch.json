@@ -1,0 +1,448 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    // "version": "0.2.0",
+    // "configurations": [
+    //     {
+    //         "type": "java",
+    //         "name": "Current File",
+    //         "request": "launch",
+    //         "mainClass": "${file}"
+    //     }
+    // ]
+    
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "type": "java",
+                "name": "Frequency",
+                "request": "launch",
+                "mainClass": "java_03_operators.Frequency",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "EOQ_and_TBO",
+                "request": "launch",
+                "mainClass": "java_03_operators.EOQ_and_TBO",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "distance_Travelled",
+                "request": "launch",
+                "mainClass": "java_03_operators.distance_Travelled",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "Smallest_Gretest_number",
+                "request": "launch",
+                "mainClass": "java_03_operators.Smallest_Gretest_number",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "Salvage",
+                "request": "launch",
+                "mainClass": "java_03_operators.Salvage",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "HCF",
+                "request": "launch",
+                "mainClass": "java_03_operators.HCF",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "Avreage_marks",
+                "request": "launch",
+                "mainClass": "java_03_operators.Avreage_marks",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "Temperature_conversion",
+                "request": "launch",
+                "mainClass": "java_02_variable_and_data_types.Temperature_conversion",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "Tempreture_conversion",
+                "request": "launch",
+                "mainClass": "java_02_variable_and_data_types.Tempreture_conversion",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "Rupee_to_paise",
+                "request": "launch",
+                "mainClass": "java_02_variable_and_data_types.Rupee_to_paise",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "sum_of_harmonic_series",
+                "request": "launch",
+                "mainClass": "java_02_variable_and_data_types.sum_of_harmonic_series",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "Primes_and_Fibonacci",
+                "request": "launch",
+                "mainClass": "java_02_variable_and_data_types.Primes_and_Fibonacci",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "ReveseWord",
+                "request": "launch",
+                "mainClass": "PWlectureString.ReveseWord",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "toggleString",
+                "request": "launch",
+                "mainClass": "PWlectureString.toggleString",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "Toggle",
+                "request": "launch",
+                "mainClass": "PWlectureString.Toggle",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "Builder",
+                "request": "launch",
+                "mainClass": "PWlectureString.Builder",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "StringBuilder",
+                "request": "launch",
+                "mainClass": "PWlectureString.StringBuilder",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "Equals",
+                "request": "launch",
+                "mainClass": "PWlectureString.Equals",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "Interning",
+                "request": "launch",
+                "mainClass": "PWlectureString.Interning",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "substring",
+                "request": "launch",
+                "mainClass": "PWlectureString.substring",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "StringIntChar",
+                "request": "launch",
+                "mainClass": "PWlectureString.StringIntChar",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "StringsBasics",
+                "request": "launch",
+                "mainClass": "PWlectureString.StringsBasics",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "RotateKsteps",
+                "request": "launch",
+                "mainClass": "PWlecture7.RotateKsteps",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "PassingArrayToMethods",
+                "request": "launch",
+                "mainClass": "PWlecture7.PassingArrayToMethods",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "usual",
+                "request": "launch",
+                "mainClass": "College.usual",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "FailOrPass",
+                "request": "launch",
+                "mainClass": "PWlecture7.FailOrPass",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "InputInArray",
+                "request": "launch",
+                "mainClass": "PWlecture7.InputInArray",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "InitialionOfArray",
+                "request": "launch",
+                "mainClass": "PWlecture7.InitialionOfArray",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "ReturnKyeword",
+                "request": "launch",
+                "mainClass": "PWlecture5.ReturnKyeword",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "ReturnType",
+                "request": "launch",
+                "mainClass": "PWlecture5.ReturnType",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "PassingArguments",
+                "request": "launch",
+                "mainClass": "PWlecture5.PassingArguments",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "MoreAboutMethods",
+                "request": "launch",
+                "mainClass": "PWlecture5.MoreAboutMethods",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "Power",
+                "request": "launch",
+                "mainClass": "PWlecture5.Power",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "AlphabetPattern",
+                "request": "launch",
+                "mainClass": "PWlecture4.AlphabetPattern",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "UserId",
+                "request": "launch",
+                "mainClass": "College.UserId",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "DoWhileLoop",
+                "request": "launch",
+                "mainClass": "PWlecture3.DoWhileLoop",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "TableOfN",
+                "request": "launch",
+                "mainClass": "PWlecture3.TableOfN",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "ForLoop",
+                "request": "launch",
+                "mainClass": "PWlecture3.ForLoop",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "pridict",
+                "request": "launch",
+                "mainClass": "PWlecture2.pridict",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "SideOfTriangle",
+                "request": "launch",
+                "mainClass": "PWlecture2.SideOfTriangle",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "TwoDigitNumber",
+                "request": "launch",
+                "mainClass": "PWlecture2.TwoDigitNumber",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "Square",
+                "request": "launch",
+                "mainClass": "PWlecture2.Square",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "evenOdd",
+                "request": "launch",
+                "mainClass": "PWlecture2.evenOdd",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "CharDataType",
+                "request": "launch",
+                "mainClass": "PWlecture1.CharDataType",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "modulo",
+                "request": "launch",
+                "mainClass": "PWlecture1.modulo",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "SumOfNumber",
+                "request": "launch",
+                "mainClass": "PWlecture1.SumOfNumber",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "InputByUser",
+                "request": "launch",
+                "mainClass": "PWlecture1.InputByUser",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "Presentage",
+                "request": "launch",
+                "mainClass": "PWlecture1.Presentage",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "DoubleDataType",
+                "request": "launch",
+                "mainClass": "PWlecture1.DoubleDataType",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "IncrementDecrement",
+                "request": "launch",
+                "mainClass": "PWlecture1.IncrementDecrement",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "MultipleVariables",
+                "request": "launch",
+                "mainClass": "PWlecture1.MultipleVariables",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "Arithmetic",
+                "request": "launch",
+                "mainClass": "PWlecture1.Arithmetic",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "VariablesINT",
+                "request": "launch",
+                "mainClass": "PWlecture1.VariablesINT",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "Number",
+                "request": "launch",
+                "mainClass": "PWlecture1.Number",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "basic",
+                "request": "launch",
+                "mainClass": "PWlecture1.basic",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "BookStatistics",
+                "request": "launch",
+                "mainClass": "Overview.BookStatistics",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "Main1",
+                "request": "launch",
+                "mainClass": "College.Main1",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "ShopDemo",
+                "request": "launch",
+                "mainClass": "Overview.ShopDemo",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "AssociationDemo",
+                "request": "launch",
+                "mainClass": "Overview.AssociationDemo",
+                "projectName": "java_571b8163"
+            },
+            {
+                "type": "java",
+                "name": "Run ComLineTest with Arguments",
+                "request": "launch",
+                "mainClass": "Overview.ComLineTest",
+                "args": [
+                    "Simple",
+                    "Object_Oriented",
+                    "Distributed",
+                    "Robust",
+                    "Secure",
+                    "Portable",
+                    "Multithreaded",
+                    "Dynamic"
+                ]
+            }
+        ]
+    
+}
