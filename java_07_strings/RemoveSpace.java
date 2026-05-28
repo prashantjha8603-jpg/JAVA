@@ -1,4 +1,4 @@
-package java_07_string;
+package java_07_strings;
 
 import java.util.*;
 

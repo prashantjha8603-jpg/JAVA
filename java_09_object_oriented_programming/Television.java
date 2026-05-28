@@ -1,4 +1,4 @@
-package java_09_classes_and_objects;
+package java_09_object_oriented_programming;
 
 class Television {
     String Make;

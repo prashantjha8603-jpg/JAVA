@@ -1,4 +1,4 @@
-package java_05_loops;
+package java_05_loops_and_patterns;
 
 import java.util.*;
 

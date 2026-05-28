@@ -9,36 +9,44 @@ The goal of this project is to practice Java programming, understand core concep
 
 ## 📚 Topics Covered
 
-* java_01_basic_syntax
-* java_02_variable_and_data_types
-* java_03_operators
-* java_04_control_statements
-* java_05_loops
-* java_06_arrays
-* java_07_methods
-* java_08_classes_and_objects
-* java_09_constructors
-* java_10_inheritance
-* java_11_polymorphism
-* java_12_encapsulation
-* java_13_abstraction
-* java_14_interfaces
-* java_15_packages
-* java_16_exception_handling
-* java_17_collections
-* java_18_generics
-* java_19_file_io
-* java_20_multithreading
-* java_21_synchronization
-* java_22_lambda_expressions
-* java_23_streams_api
-* java_24_functional_interfaces
-* java_25_jdbc
-* java_26_networking
-* java_27_design_patterns
-* java_28_annotations
-* java_29_java_modules
-* java_30_unit_testing
+- java_01_basic_syntax
+- java_02_variable_and_data_types
+- java_03_operators
+- java_04_control_statements
+- java_05_loops_and_patterns
+- java_06_arrays
+- java_07_strings
+- java_08_methods
+- java_09_object_oriented_programming
+- java_10_classes_and_objects
+- java_11_inheritance
+- java_12_constructors
+- java_13_polymorphism
+- java_14_abstraction
+- java_15_encapsulation
+- java_16_interfaces
+- java_17_packages
+- java_18_exception_handling
+- java_19_multithreading
+- java_20_file_handling
+- java_21_collections_framework
+- java_22_synchronization
+- java_23_arraylist
+- java_24_linkedlist
+- java_25_hashmap
+- java_26_hashset
+- java_27_generics
+- java_28_lambda_expression
+- java_29_stream_api
+- java_30_dsa_in_java
+- java_31_projects
+- java_32_jdbc
+- java_33_networking
+- java_34_design_patterns
+- java_35_annotations
+- java_36_java_modules
+- java_37_unit_testing
+- java_38_problem_solving
 
 ---
 
