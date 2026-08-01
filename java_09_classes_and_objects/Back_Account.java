@@ -1,4 +1,4 @@
-package java_09_object_oriented_programming;
+package java_09_classes_and_objects;
 
 import java.util.*;
 
