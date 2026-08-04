@@ -1,4 +1,4 @@
-package java_06_arrays;
+package java_06_arrays_and_vector;
 
 import java.util.*;
 
