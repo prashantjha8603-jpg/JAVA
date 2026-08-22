@@ -1,10 +1,10 @@
 package java_24_linkedlist;
 
-public class LinkeList_basic {
+public class LinkedList_basic {
     Node head;
     private int size;
 
-    LinkeList_basic() {
+    LinkedList_basic() {
         this.size = 0;
     }
 
@@ -93,7 +93,7 @@ public class LinkeList_basic {
     }
 
     public static void main(String[] args) {
-        LinkeList_basic list = new LinkeList_basic();
+        LinkedList_basic list = new LinkedList_basic();
         list.addFirst("A");
         list.addFirst("Is");
         list.printList();

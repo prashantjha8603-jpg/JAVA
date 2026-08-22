@@ -2,7 +2,7 @@ package java_24_linkedlist;
 
 import java.util.LinkedList;
 
-public class LinkList_with_packages {
+public class LinkedList_with_function {
     public static void main(String[] args) {
         LinkedList<String> list = new LinkedList<String>();
         list.addFirst(" who");
