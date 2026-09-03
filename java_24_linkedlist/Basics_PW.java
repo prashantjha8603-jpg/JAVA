@@ -1,6 +1,31 @@
 package java_24_linkedlist;
 
 public class Basics_PW {
+    public static void display(Node head) {
+        Node temp = head;
+        while (temp != null) {
+            System.out.print(temp.data + " ");
+            temp = temp.next;
+        }
+    }
+
+    public static void display2(Node head) {
+        if (head == null) {
+            return;
+        }
+        System.out.print(head.data + " ");
+        display2(head.next);
+
+    }
+
+    public static void displayReverse(Node head) {
+        if (head == null) {
+            return;
+        }
+        display2(head.next);
+        System.out.print(head.data + " ");
+    }
+
     public static class Node {
         int data;
         Node next;
@@ -25,20 +50,11 @@ public class Basics_PW {
         System.out.println(a.data);
         System.out.println(a.next.next.next.data);
 
-        Node temp = a;
-        System.out.println(temp.data + "\n");
-        for (int i = 1; i <= 5; i++) {
-            System.out.println(temp.data);
-            temp = temp.next;
-        }
+        display(a);
         System.out.println();
-
-        temp = a;
-        while (temp != null) {
-            System.out.println(temp.data);
-            temp = temp.next;
-        }
-
+        display2(a);
+        System.out.println();
+        displayReverse(a);
     }
 
 }
