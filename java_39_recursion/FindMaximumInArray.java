@@ -14,10 +14,15 @@ public class FindMaximumInArray {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter size of element : ");
+        System.out.print("Enter size of array : ");
         int n = sc.nextInt();
         if (n == 0) {
             System.out.print("Maximum element is not defined for empty array.");
+            sc.close();
+            return;
+        }
+        if (n<0) {
+            System.out.print("Please enter positve size for array");
             sc.close();
             return;
         }
