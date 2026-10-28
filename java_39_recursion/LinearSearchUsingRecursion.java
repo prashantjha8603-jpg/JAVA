@@ -25,6 +25,11 @@ public class LinearSearchUsingRecursion {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter size of array : ");
         int n = sc.nextInt();
+        if(n==0){
+            System.out.print("No element is present in array");
+            sc.close();
+            return;
+        }
         if (n < 0) {
             System.out.print("Please enter positve number");
             sc.close();
