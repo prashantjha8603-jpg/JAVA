@@ -1,0 +1,22 @@
+package java_40_Codeforces;
+
+import java.util.Scanner;
+
+public class Bit_Plus_Plus_282A {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int x = 0;
+        String s;
+        for (int i = 0; i < n; i++) {
+            s = sc.next();
+            if (s.contains("++")) {
+                x++;
+            } else if (s.contains("--")) {
+                x--;
+            }
+        }
+        System.out.println(x);
+        sc.close();
+    }
+}
