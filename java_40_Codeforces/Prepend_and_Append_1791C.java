@@ -1,0 +1,27 @@
+package java_40_Codeforces;
+
+import java.util.Scanner;
+
+public class Prepend_and_Append_1791C {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int t = sc.nextInt();
+        while (t-- > 0) {
+            int n = sc.nextInt();
+            String s = sc.next();
+            int left = 0;
+            int right = n - 1;
+            while (left < right) {
+                if (s.charAt(left) != s.charAt(right)) {
+                    left++;
+                    right--;
+                    n = n - 2;
+                }else{
+                    break;
+                }
+            }
+            System.out.println(n);
+        }
+        sc.close();
+    }
+}
