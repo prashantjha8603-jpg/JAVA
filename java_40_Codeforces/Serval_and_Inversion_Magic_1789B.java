@@ -2,7 +2,7 @@ package java_40_Codeforces;
 
 import java.util.Scanner;
 
-public class Serval_and_Inversion_Magic_1895B {
+public class Serval_and_Inversion_Magic_1789B {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
